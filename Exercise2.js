@@ -21,3 +21,4 @@ while (secondNum < 4000000) {
     }
 }
 console.log(finalTotal)
+console.log("POOP")
